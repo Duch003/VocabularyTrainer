@@ -1,0 +1,15 @@
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyTrainer.exe.config
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyTrainer.exe
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyTrainer.pdb
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyDatabase.dll
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.dll
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyDatabase.pdb
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\VocabularyDatabase.dll.config
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.xml
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.csprojAssemblyReference.cache
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.csproj.CoreCompileInputs.cache
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.csproj.CopyComplete
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.exe
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.pdb
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.SqlServer.xml
