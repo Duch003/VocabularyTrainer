@@ -13,3 +13,4 @@ c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\Voca
 c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\obj\Debug\VocabularyTrainer.pdb
 c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Duch003\source\repos\VocabularyTrainer\VocabularyTrainer\bin\Debug\Colorful.Console.dll

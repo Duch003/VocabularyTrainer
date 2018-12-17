@@ -1,0 +1,1286 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <ID>1</ID>
+    <Polish>Cześć</Polish>
+    <English>Hello</English>
+    <Category>Essential pharses</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>2</ID>
+    <Polish>Dzień dobry</Polish>
+    <English>Good morning</English>
+    <Category>Essential pharses</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>3</ID>
+    <Polish>fill with polish sentence here</Polish>
+    <English>fill with english sentence here</English>
+    <Category>fill with category</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>4</ID>
+    <Polish>precyzyjny</Polish>
+    <English>accurate</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>5</ID>
+    <Polish>alokować zasoby</Polish>
+    <English>to allocate resources</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>6</ID>
+    <Polish>odnosić się do czegoś</Polish>
+    <English>to apply to something</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>7</ID>
+    <Polish>aktywa</Polish>
+    <English>assets</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>8</ID>
+    <Polish>natychmiast</Polish>
+    <English>at once</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>9</ID>
+    <Polish>korzystny</Polish>
+    <English>beneficial</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>10</ID>
+    <Polish>zwiększać efektywność</Polish>
+    <English>to boost effectiveness</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>11</ID>
+    <Polish>cel biznesowy</Polish>
+    <English>business goal</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>12</ID>
+    <Polish>oprogramowanie wspomagające zarządzanie przedsiębiorstwem</Polish>
+    <English>business management software</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>13</ID>
+    <Polish>przechwytywać</Polish>
+    <English>to capture</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>14</ID>
+    <Polish>wyzwanie</Polish>
+    <English>challange</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>15</ID>
+    <Polish>przewaga konkurencyjna</Polish>
+    <English>competitive advantage</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>16</ID>
+    <Polish>ukończenie</Polish>
+    <English>completion</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>17</ID>
+    <Polish>pełny wgląd w czasie rzeczywistym</Polish>
+    <English>comprehensive real-time view</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>18</ID>
+    <Polish>prowadzenie biznesu</Polish>
+    <English>conduct of business</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>19</ID>
+    <Polish>ewoluować</Polish>
+    <English>to continuously evolve</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>20</ID>
+    <Polish>analiza kosztów i korzyści</Polish>
+    <English>cost-benefit analysis</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>21</ID>
+    <Polish>kluczowy czynnik sukcesu</Polish>
+    <English>critical success factor</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>22</ID>
+    <Polish>istotny</Polish>
+    <English>crucial</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>23</ID>
+    <Polish>obecnie</Polish>
+    <English>currently</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>24</ID>
+    <Polish>dostosowywać do potrzeb</Polish>
+    <English>to customize</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>25</ID>
+    <Polish>codzienne działania</Polish>
+    <English>day-to-day operations</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>26</ID>
+    <Polish>system wspomagania decyzji</Polish>
+    <English>decision support system</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>27</ID>
+    <Polish>proces podejmowania decyzji</Polish>
+    <English>decision-making process</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>28</ID>
+    <Polish>podejście defensywne</Polish>
+    <English>defensive approach</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>29</ID>
+    <Polish>metoda delficka</Polish>
+    <English>Delphi method</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>30</ID>
+    <Polish>urządzenie</Polish>
+    <English>device</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>31</ID>
+    <Polish>efektywny</Polish>
+    <English>effective</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>32</ID>
+    <Polish>efektywne zarządzanie</Polish>
+    <English>effective management</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>33</ID>
+    <Polish>wydajny</Polish>
+    <English>efficient</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>34</ID>
+    <Polish>umożliwiać</Polish>
+    <English>to enable</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>35</ID>
+    <Polish>ulepszenie</Polish>
+    <English>enhancement</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>36</ID>
+    <Polish>planowanie zasobów przedsiębiorstwa</Polish>
+    <English>enterprise resource planning</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>37</ID>
+    <Polish>szacować</Polish>
+    <English>to evaluate</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>38</ID>
+    <Polish>rozwijać się</Polish>
+    <English>to evolve</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>39</ID>
+    <Polish>wymieniać</Polish>
+    <English>to exchange</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>40</ID>
+    <Polish>system informowania kierownictwa</Polish>
+    <English>executive information system</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>41</ID>
+    <Polish>podstawowy cel</Polish>
+    <English>fundamental objective</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>42</ID>
+    <Polish>przyszły zysk</Polish>
+    <English>future gain</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>43</ID>
+    <Polish>cel</Polish>
+    <English>goal</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>44</ID>
+    <Polish>wartość firmy</Polish>
+    <English>goodwill</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>45</ID>
+    <Polish>sprzęt</Polish>
+    <English>hardware</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>46</ID>
+    <Polish>bardzo konkurencyjny rynek</Polish>
+    <English>highly competitive market</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>47</ID>
+    <Polish>inwestycja wysokiego ryzyka</Polish>
+    <English>high-risk investment</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>48</ID>
+    <Polish>wpływ</Polish>
+    <English>impact</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>49</ID>
+    <Polish>mieć wpływ na coś</Polish>
+    <English>to impact something</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>50</ID>
+    <Polish>w zgodzie z</Polish>
+    <English>in alignment with</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>51</ID>
+    <Polish>w świetle</Polish>
+    <English>in light of</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>52</ID>
+    <Polish>innymi słowy</Polish>
+    <English>in other words</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>53</ID>
+    <Polish>na rynku</Polish>
+    <English>in the market</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>54</ID>
+    <Polish>wzrost przychodu</Polish>
+    <English>increase in revenue</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>55</ID>
+    <Polish>odbiorca informacji</Polish>
+    <English>information recipient</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>56</ID>
+    <Polish>system informacyjny</Polish>
+    <English>information system</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>57</ID>
+    <Polish>technologia informacyjna</Polish>
+    <English>information technology</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>58</ID>
+    <Polish>niematerialny</Polish>
+    <English>intangible</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>59</ID>
+    <Polish>aktywa niematerialne</Polish>
+    <English>intangible assets</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>60</ID>
+    <Polish>niewymierna korzyść</Polish>
+    <English>intangible benefit</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>61</ID>
+    <Polish>zarządzanie zapasami</Polish>
+    <English>inventory management</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>62</ID>
+    <Polish>technika oceny inwestycji</Polish>
+    <English>investment evaluation technique</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>63</ID>
+    <Polish>infrastruktura informatyczna</Polish>
+    <English>IT infrastructure</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>64</ID>
+    <Polish>kluczowy czynnik biznesowy</Polish>
+    <English>key business driver</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>65</ID>
+    <Polish>klucz do sukcesu</Polish>
+    <English>key to success</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>66</ID>
+    <Polish>zainwestować w coś</Polish>
+    <English>to make investment in something</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>67</ID>
+    <Polish>system informacji zarządczej</Polish>
+    <English>management information system</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>68</ID>
+    <Polish>strategiczna macierz McFarlana</Polish>
+    <English>McFarlan's strategic grid</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>69</ID>
+    <Polish>znaczący</Polish>
+    <English>meaningful</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>70</ID>
+    <Polish>nic nie znaczący</Polish>
+    <English>meaningless</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>71</ID>
+    <Polish>zaspokoić potrzebę</Polish>
+    <English>to meet the need</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>72</ID>
+    <Polish>metoda wielu celów i wielu kryteriów</Polish>
+    <English>multi objective - multi criteria method</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>73</ID>
+    <Polish>korporacja ponadnarodowa</Polish>
+    <English>multinational corporation</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>74</ID>
+    <Polish>sieć</Polish>
+    <English>network</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>75</ID>
+    <Polish>podejście ofensywne</Polish>
+    <English>offensive approach</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>76</ID>
+    <Polish>na czas</Polish>
+    <English>on time</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>77</ID>
+    <Polish>optymalizować</Polish>
+    <English>to optimize</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>78</ID>
+    <Polish>raport okresowy</Polish>
+    <English>periodic report</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>79</ID>
+    <Polish>maszyny i urządzenia</Polish>
+    <English>plant and equipment</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>80</ID>
+    <Polish>analiza portfelowa</Polish>
+    <English>portfolio analysis</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>81</ID>
+    <Polish>nadawać priorytet</Polish>
+    <English>to prioritize</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>82</ID>
+    <Polish>przetwarzać</Polish>
+    <English>to process</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>83</ID>
+    <Polish>planowanie produkcji</Polish>
+    <English>production planning</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>84</ID>
+    <Polish>produktywny</Polish>
+    <English>productive</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>85</ID>
+    <Polish>zyskowność</Polish>
+    <English>profitability</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>86</ID>
+    <Polish>dostarczać informacji</Polish>
+    <English>to provide information</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>87</ID>
+    <Polish>kłaść nacisk na coś</Polish>
+    <English>to put emphasis on something</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>88</ID>
+    <Polish>badania i rozwój</Polish>
+    <English>research and development</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>89</ID>
+    <Polish>surowe dane</Polish>
+    <English>raw data</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>90</ID>
+    <Polish>zbędne zadanie biznesowe</Polish>
+    <English>redundant business task</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>91</ID>
+    <Polish>zapewniać długoterminowe korzyści</Polish>
+    <English>to render long-term benefits</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>92</ID>
+    <Polish>zwrot z inwestycji</Polish>
+    <English>return on investment</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>93</ID>
+    <Polish>przedstawiciel wyższej kadry zarządzającej</Polish>
+    <English>senior executive</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>94</ID>
+    <Polish>istotny</Polish>
+    <English>significant</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>95</ID>
+    <Polish>małe i średnie przedsiębiorstwa</Polish>
+    <English>small and medium-sized enterprises</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>96</ID>
+    <Polish>bezproblemowo</Polish>
+    <English>smoothly</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>97</ID>
+    <Polish>oprogramowanie</Polish>
+    <English>software</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>98</ID>
+    <Polish>składować</Polish>
+    <English>to store</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>99</ID>
+    <Polish>zasób strategiczny</Polish>
+    <English>strategic resource</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>100</ID>
+    <Polish>odpowiedni</Polish>
+    <English>suitable</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>101</ID>
+    <Polish>pakiet</Polish>
+    <English>suite</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>102</ID>
+    <Polish>wykorzystać coś</Polish>
+    <English>to take advantage of something</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>103</ID>
+    <Polish>aktywa rzeczowe</Polish>
+    <English>tangible assets</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>104</ID>
+    <Polish>wymierna korzyść</Polish>
+    <English>tangible benefit</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>105</ID>
+    <Polish>znak handlowy</Polish>
+    <English>trademark</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>106</ID>
+    <Polish>przesyłać informacje</Polish>
+    <English>to transmit information</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>107</ID>
+    <Polish>szerokie pojęcie</Polish>
+    <English>umbrella term</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>108</ID>
+    <Polish>cenny</Polish>
+    <English>valuable</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>109</ID>
+    <Polish>analiza wartości</Polish>
+    <English>value analysis</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>110</ID>
+    <Polish>różny</Polish>
+    <English>various</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>111</ID>
+    <Polish>istotna i integralna część biznesplanu</Polish>
+    <English>vital and integral part of business plan</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>112</ID>
+    <Polish>dobrobyt</Polish>
+    <English>well-being</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>113</ID>
+    <Polish>optymalizacja</Polish>
+    <English>optimization</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>114</ID>
+    <Polish>w samą porę</Polish>
+    <English>in time</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>115</ID>
+    <Polish>coraz bardziej</Polish>
+    <English>increasingly</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>116</ID>
+    <Polish>wzrost</Polish>
+    <English>growth</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>117</ID>
+    <Polish>w dzisiejszych czasach</Polish>
+    <English>nowadays</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>118</ID>
+    <Polish>zestaw czegoś</Polish>
+    <English>set of</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>119</ID>
+    <Polish>tego typu</Polish>
+    <English>such</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>120</ID>
+    <Polish>składać się z czegoś</Polish>
+    <English>consist of</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>121</ID>
+    <Polish>wyniki, osiągi</Polish>
+    <English>performance</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>122</ID>
+    <Polish>potrzeby</Polish>
+    <English>needs</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>123</ID>
+    <Polish>przemyślany</Polish>
+    <English>considered</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>124</ID>
+    <Polish>pewien, pewny, niektórzy</Polish>
+    <English>certain</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>125</ID>
+    <Polish>zaangażowany, zainteresowany</Polish>
+    <English>concerned</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>126</ID>
+    <Polish>zainteresowany czymś</Polish>
+    <English>concerned with</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>127</ID>
+    <Polish>zaniepokojony</Polish>
+    <English>concerned about</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>128</ID>
+    <Polish>aż do, o ile</Polish>
+    <English>as far as</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>129</ID>
+    <Polish>przede wszyzstkim</Polish>
+    <English>first of all</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>130</ID>
+    <Polish>po drugie</Polish>
+    <English>secondly</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>131</ID>
+    <Polish>wydawać się, zdawać się</Polish>
+    <English>seems</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>132</ID>
+    <Polish>przydzielić, przypisać</Polish>
+    <English>assigned</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>133</ID>
+    <Polish>przychód</Polish>
+    <English>revenue</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>134</ID>
+    <Polish>dochód</Polish>
+    <English>income</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>135</ID>
+    <Polish>pensja</Polish>
+    <English>salary</English>
+    <Category>English4IT - 1</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <!--=====Present simple======-->
+  <Question>
+    <ID>136</ID>
+    <Polish>Ja alokuję zasoby mojego przedsiebiorstwa raz w tygodniu. (PS)</Polish>
+    <English>I allocate my enterprise resources once a week.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>137</ID>
+    <Polish>Czy Ty się odnosisz do konkretnego wyzwania? (PS)</Polish>
+    <English>Do You apply to particular challange?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>138</ID>
+    <Polish>Oni nie zwiększają efektywności systemu wspomagania podejmowania decyzji. (PS)</Polish>
+    <English>They don't boost effectiveness of decision support system.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>139</ID>
+    <Polish>To zawsze przechwytuje surowe dane i przetwarza je. (PS)</Polish>
+    <English>It always captures raw data and processes it.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>140</ID>
+    <Polish>On rzadko przewodzi swoją własną firmą. (PS)</Polish>
+    <English>He rarely conducts his of business.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>141</ID>
+    <Polish>Ona rozwija codziennie pewne umiejętności. (PS)</Polish>
+    <English>She evolves certain abilities every day.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>142</ID>
+    <Polish>Od czasu do czasu to dostosowuje defensywne i ofensywne podejście dla poprawy firmy. (PS)</Polish>
+    <English>From time to time it customizes defensive and offensive approach for business enhancement.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>143</ID>
+    <Polish>Czy to umożliwia efektywne planowanie każdego dnia? (PS)</Polish>
+    <English>Does it enable effective planning every day?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>144</ID>
+    <Polish>Czy ja regularnie szacuję zyskowność tego oprogramowania? (PS)</Polish>
+    <English>Do I regulary evaluate profitability of this software?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>145</ID>
+    <Polish>Czy Ty wymieniasz kiedykolwiek analizę kosztów i korzyści z działem badań i rozwoju? (PS)</Polish>
+    <English>Do you ever exchange cost-benefit analysis with research and development department?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>146</ID>
+    <Polish>Czy my wpływamy obecnie na naszą przewagę konkurencyjną z systemem informacji zarządczej? (PS)</Polish>
+    <English>Do we impact currently our competitive advantage with management information system?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>147</ID>
+    <Polish>Czy on zwiększył przyszły zysk jakoś? (PS)</Polish>
+    <English>Does he increase future gain somehow?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>148</ID>
+    <Polish>Czy to zawsze inwestuje automatycznie? (PS)</Polish>
+    <English>Does it always make investments automaticly?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>149</ID>
+    <Polish>Ja nie zaspokoiłem swojej potrzeby wczoraj i wciąż się martwię o mój cel biznesowy. (PS)</Polish>
+    <English>I don't meet my need yesterday and I am still concerned about my business goal.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>150</ID>
+    <Polish>Ty czasami nie optymalizujesz sprawnie. (PS)</Polish>
+    <English>You sometimes don't optimize efficient.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>151</ID>
+    <Polish>My nie priorytetyzujemy tego zadania - jest zawsze zbędne! (PS)</Polish>
+    <English>We don't prioritize this task - it is always redundant!</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>152</ID>
+    <Polish>On nie zapewnia jakiegokolwiek rozwoju ani wzrostu przychodów. (PS)</Polish>
+    <English>He doesn't provide any growth nor increase in revenue.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>153</ID>
+    <Polish>Ona nie kładzie nacisku do naszych codziennych operacji. (PS)</Polish>
+    <English>She doesn't put emphasis to our day-to-day operations.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>154</ID>
+    <Polish>To nie zapewnia zbyt wielu pieniedzy regularnie, to nie jest korzystne. (PS)</Polish>
+    <English>It doesn't render too many money regulary, it isn't beneficial.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>155</ID>
+    <Polish>Ten komputer nie działa. Nie przechwouje danych. (PS)</Polish>
+    <English>This computer doesn't work. It doesn't store informations.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>156</ID>
+    <Polish>Ten system informowania kierwonictwa zawsze działa dziwnie. Czy to przesyła precyzyjne informacje? (PS)</Polish>
+    <English>This executive information system always works weird. Does it transmit accurate informations?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>157</ID>
+    <Polish>Nasz sprzęt wykorzystuje technikę szacowania inwestycji! (PS)</Polish>
+    <English>Our hardware takes advantage on investment evaluation technique!</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>158</ID>
+    <Polish>Kurs zaczyna się w lutym. (PS)</Polish>
+    <English>The course starts in february.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <!--======Present continous======-->
+  <Question>
+    <ID>159</ID>
+    <Polish>Alokuję zasoby w inwestycję wysokiego ryzyka. (PC)</Polish>
+    <English>I am allocating resources into high-risk investment.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>160</ID>
+    <Polish>Ty odnosisz się do naszego urządzenia sieciowego. (PC)</Polish>
+    <English>You are applying to our network device.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>161</ID>
+    <Polish>On zwiększa efektywność oprogramowania zarządzania przedsiebiorstwem co zwiększy naszą wartość firmy. (PC)</Polish>
+    <English>He is boosting business management software effectiveness which will increase our goodwill.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>162</ID>
+    <Polish>O ile przechwytujemy informacje nasz rozwój oprogramowania dobiega końca. (PC)</Polish>
+    <English>As far as we are capturing informations our software development is going to completion.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>163</ID>
+    <Polish>To było pewne że oni prowadzą firmę przez inwestowanie w oprogramowanie wspomagania zarządzania przedsiębiorstwem. To jest istotnie znaczące. (PC)</Polish>
+    <English>It was certain that they are conducting business by investing in business management software. It is meaningful crucial.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>164</ID>
+    <Polish>Czy ja rozwijam swoje umiejętności programisty przez bycie produktywnym i zaangażowanym? (PC)</Polish>
+    <English>Am I evolving my developer skills by being productive and concerned?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>165</ID>
+    <Polish>Teraz to dostosowujesz? Zrób to natychmiast! (PC)</Polish>
+    <English>Are You customizing it now? Do it at once!</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>166</ID>
+    <Polish>Innymi słowy, czy ten system umożliwia zarządzanie zapasami z wglądem w czasie rzeczywistym? (PC)</Polish>
+    <English>In other words, is this system enabling inventory management with comprehensive real-time view?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>167</ID>
+    <Polish>Czy my oszacowujemy nasz wpływ na rynek? (PC)</Polish>
+    <English>Are we evaluating our impact on the market?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>168</ID>
+    <Polish>Czy oni wymieniają nasze różne aktywa? Co z analizą wartości? (PC)</Polish>
+    <English>Are they exchanging our various assets? What with value analysis?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>169</ID>
+    <Polish>Nie wpływam na bardzo konkurencyjny rynek teraz, na ten czas to nie jest mój kluczowy czynnik biznesowy. (PC)</Polish>
+    <English>I'm not impacting highly competitive market now, in this time this is not my key business driver.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>170</ID>
+    <Polish>W świetle ostatnich wydarzeń, Ty nie wpływasz na potrzeby naszych maszyn i urządzeń w ogóle. (PC)</Polish>
+    <English>In light of last affairs, You're not impacting our plants and equipment needs at all.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>171</ID>
+    <Polish>Otrzymałem nasz okresowy raport. Niestety, nie zwiększa to naszych długoterminowych korzyści. (PC)</Polish>
+    <English>I receive our periodic report. Unfortunately, it's not incresing out long-term benefits.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>172</ID>
+    <Polish>Oni nie robią inwestycji w infrastruturę informatyczną. (PC)</Polish>
+    <English>They're not making investment in IT infrastructure.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>173</ID>
+    <Polish>Ty zaspokajasz potrzeby ponadnarodowej korporacji przez rozwijanie oprogramowania wilu zadań - wielu kryteriów, co na pewno będzie zwrotem z inwestycji. (PC)</Polish>
+    <English>You are meeting multinational corporation needs by developing multi objective - multi criteria method software, which for sure will be return on investment.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>174</ID>
+    <Polish>Ona optymalizuje efektywne zarządzanie. W dzisiajszych czasach w zgodzie z podstawowym celem to jest klucz do sukcesu. (PC)</Polish>
+    <English>She is optimizing effective management. Nowadays in alignment with fundamental objective this is key to success.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>175</ID>
+    <Polish>Priorytetyzuję zarobki kierownictwa, ponieważ ich wysiłki są ważne dla odbiorców informacji. (PC)</Polish>
+    <English>I am prioritizing executives salary, because their efforts are significant for information recipients.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>176</ID>
+    <Polish>Takie informacje nie powinny składać się z surowych danych. Przetwarzasz je w tym momencie? (PC)</Polish>
+    <English>Such informations shouldn't consist of raw data. Are You processing them at the moment?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>177</ID>
+    <Polish>Czy on zapewnia wsparcie dla działu marketingu? Jestem zainteresowany naszym nowym znakiem towarowym. To jest kluczowy czynnik sukcesu. (PC)</Polish>
+    <English>Is he providing support for sales department? I am concerned with our new trademark. This is key business driver.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>178</ID>
+    <Polish>Czy oni kładą za duży nacisk na swoje włane cele? Na to wygląda. (PC)</Polish>
+    <English>Are they putting too much emphasis into their own goals? It seems like.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>179</ID>
+    <Polish>Nie jestem chory. Mam zamiar to skończyć w porę. (PC)</Polish>
+    <English>I am not ill. I am going to finish this in time.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>180</ID>
+    <Polish>Pakiet jest niekompletny. Nie generuje przychodów. (PC)</Polish>
+    <English>The suit is incomplete. It's not rendering revenue.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>181</ID>
+    <Polish>Po drugie, nie przechowujemy wartościowych przedmiotów. Mam bardziej pasujące pomieszczenie dla tego. (PC)</Polish>
+    <English>Secondly, we're not storing valuable items. I have more suitable room for that.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>182</ID>
+    <Polish>Nasza firma wykorzystuje najnowsze osiągniecia technologii informacyjnej. (PC)</Polish>
+    <English>Our company is taking advantage on newest information technology achievements.</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+  <Question>
+    <ID>183</ID>
+    <Polish>Ta wiadomosć składa się z wielu rzeczy. Czy oni przesyłają to gładko? (PC)</Polish>
+    <English>This message is set of of many things. Are they transmitting it smoothly?</English>
+    <Category>English4IT - test</Category>
+    <LevelOfRecognition>0</LevelOfRecognition>
+  </Question>
+</ArrayOfQuestion>
